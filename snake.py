@@ -3,7 +3,7 @@ import copy
 import time
 import random
 t = curses.initscr()
-#ok
+#okHello
 curses.curs_set(0)
 curses.start_color()
 h, w =t.getmaxyx()
